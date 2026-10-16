@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns="urn:schemas-microsoft-com:asm.v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <assemblyIdentity name="lebrun.exe" version="1.0.0.0" type="win32" />
+  <file name="Comdlg32.OCX" asmv2:size="140488">
+    <hash xmlns="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>NOQhPYvw4VDT9QrgvT9bMo4RBfU=</dsig:DigestValue>
+    </hash>
+    <typelib tlbid="{f9043c88-f6f2-101a-a3c9-08002b2f49fb}" version="1.2" helpdir="C:\WINDOWS\System32\cmdlg98.chm" resourceid="0" flags="CONTROL,HASDISKIMAGE" />
+    <comClass clsid="{f9043c85-f6f2-101a-a3c9-08002b2f49fb}" threadingModel="Apartment" tlbid="{f9043c88-f6f2-101a-a3c9-08002b2f49fb}" progid="MSComDlg.CommonDialog.1" description="Microsoft Common Dialog Control 6.0 (SP3)" />
+  </file>
+  <file name="MSCOMM32.OCX" asmv2:size="103744">
+    <hash xmlns="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>nXqv/AvPlVzHXU7MIosc7aihhWw=</dsig:DigestValue>
+    </hash>
+    <typelib tlbid="{648a5603-2c6e-101b-82b6-000000000014}" version="1.1" helpdir="C:\WINDOWS\System32\COMM98.CHM" resourceid="0" flags="CONTROL,HASDISKIMAGE" />
+    <comClass clsid="{648a5600-2c6e-101b-82b6-000000000014}" threadingModel="Apartment" tlbid="{648a5603-2c6e-101b-82b6-000000000014}" progid="MSCOMMLib.MSComm.1" description="Microsoft Comm Control 6.0" />
+  </file>
+  <file name="TMFISCAL.OCX" asmv2:size="237568">
+    <hash xmlns="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>WVNe5CmuNOEbxiin7FvLwKTL4Rw=</dsig:DigestValue>
+    </hash>
+    <typelib tlbid="{603f56b7-4798-4f9e-9df9-02fd0ee61745}" version="1.0" helpdir="" resourceid="0" flags="CONTROL,HASDISKIMAGE" />
+    <comClass clsid="{6bfd3f2b-c1e2-4094-9c43-88d6a0a79d72}" threadingModel="Apartment" tlbid="{603f56b7-4798-4f9e-9df9-02fd0ee61745}" progid="TM_FISCAL.TM200" />
+    <comClass clsid="{d813adcc-5b22-4571-8781-2c3eeabc640c}" threadingModel="Apartment" tlbid="{603f56b7-4798-4f9e-9df9-02fd0ee61745}" progid="TM_FISCAL.TM950" />
+  </file>
+</assembly>

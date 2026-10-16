@@ -1,0 +1,6 @@
+  000013434 1 PAR            000013436 1 PZA            000010016 1 PZA            000034025 1 PZA            000034025 1 PZA 
+ PVJusto.Bs.34,41           PVJusto.Bs.227,55          PVJusto.Bs.308,39          PVJusto.Bs.68,97           PVJusto.Bs.68,97 
+   10/02/15 IVA Incl.         10/02/15 IVA Incl.         10/02/15 IVA Incl.         10/02/15 IVA Incl.         10/02/15 IVA Incl.      
+FLEBRUN RifJ000776377      FLEBRUN RifJ000776377      FLEBRUN RifJ000776377      FLEBRUN RifJ000776377      FLEBRUN RifJ000776377      
+
+

@@ -1,0 +1,682 @@
+C:\Documents and Settings\flprogramador1\Mis documentos\lebrun\lebrun\lebrun\bin\Release\lebrun.exe.config
+C:\Documents and Settings\flprogramador1\Mis documentos\lebrun\lebrun\lebrun\bin\Release\lebrun.exe
+C:\Documents and Settings\flprogramador1\Mis documentos\lebrun\lebrun\lebrun\bin\Release\lebrun.pdb
+C:\Documents and Settings\flprogramador1\Mis documentos\lebrun\lebrun\lebrun\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\flprogramador1\Mis documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.parametrosContables.resources
+C:\Documents and Settings\flprogramador1\Mis documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.Properties.Resources.resources
+C:\Documents and Settings\flprogramador1\Mis documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.csproj.GenerateResource.Cache
+C:\Documents and Settings\flprogramador1\Mis documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.exe
+C:\Documents and Settings\flprogramador1\Mis documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.pdb
+C:\Documents and Settings\flprogramador1\Mis documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.Principal.resources
+C:\Users\flprogramador1\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.exe
+C:\Users\flprogramador1\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.pdb
+C:\Users\flprogramador1\Documents\lebrun\lebrun\lebrun\bin\Release\lebrun.exe
+C:\Users\flprogramador1\Documents\lebrun\lebrun\lebrun\bin\Release\lebrun.pdb
+C:\Users\flprogramador1\Documents\lebrun\lebrun\lebrun\obj\Release\ResolveAssemblyReference.cache
+C:\Users\flprogramador1\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmPlanCuentas.resources
+C:\Users\flprogramador1\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.parametrosContables.resources
+C:\Users\flprogramador1\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.Principal.resources
+C:\Users\flprogramador1\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.Properties.Resources.resources
+C:\Users\flprogramador1\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.csproj.GenerateResource.Cache
+C:\Users\flprogramador1\Documents\lebrun\lebrun\lebrun\bin\Release\App.config
+C:\Users\flprogramador1\Documents\lebrun\lebrun\lebrun\bin\Release\MySql.Data.dll
+C:\Users\flprogramador1\Documents\lebrun\lebrun\lebrun\bin\Release\lebrun.exe.config
+C:\Users\flprogramador1\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxPlanCuentas.resources
+C:\Users\flprogramador1\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxAuxiliarContable.resources
+C:\Users\flprogramador1\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmAuxiliarContable.resources
+C:\Users\flprogramador\Documents\lebrun\lebrun\lebrun\bin\Release\lebrun.exe.config
+C:\Users\flprogramador\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.exe
+C:\Users\flprogramador\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.pdb
+C:\Users\flprogramador\Documents\lebrun\lebrun\lebrun\bin\Release\App.config
+C:\Users\flprogramador\Documents\lebrun\lebrun\lebrun\bin\Release\lebrun.exe
+C:\Users\flprogramador\Documents\lebrun\lebrun\lebrun\bin\Release\lebrun.pdb
+C:\Users\flprogramador\Documents\lebrun\lebrun\lebrun\bin\Release\MySql.Data.dll
+C:\Users\flprogramador\Documents\lebrun\lebrun\lebrun\obj\Release\ResolveAssemblyReference.cache
+C:\Users\flprogramador\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmAuxiliarContable.resources
+C:\Users\flprogramador\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmPlanCuentas.resources
+C:\Users\flprogramador\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxAuxiliarContable.resources
+C:\Users\flprogramador\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxPlanCuentas.resources
+C:\Users\flprogramador\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.parametrosContables.resources
+C:\Users\flprogramador\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.Principal.resources
+C:\Users\flprogramador\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.Properties.Resources.resources
+C:\Users\flprogramador\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.csproj.GenerateResource.Cache
+C:\Users\flprogramador\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmComprobanteContable.resources
+C:\Users\flprogramador\Documents\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxComprobanteContable.resources
+C:\Haydee_Otros_Proyectos\Roberto_FacturacionFerle\Contabilidad\Contabilidad\lebrun\lebrun\lebrun\bin\Release\lebrun.exe.config
+C:\Haydee_Otros_Proyectos\Roberto_FacturacionFerle\Contabilidad\Contabilidad\lebrun\lebrun\lebrun\obj\Release\lebrun.exe
+C:\Haydee_Otros_Proyectos\Roberto_FacturacionFerle\Contabilidad\Contabilidad\lebrun\lebrun\lebrun\obj\Release\lebrun.pdb
+C:\Haydee_Otros_Proyectos\Roberto_FacturacionFerle\Contabilidad\Contabilidad\lebrun\lebrun\lebrun\bin\Release\App.config
+C:\Haydee_Otros_Proyectos\Roberto_FacturacionFerle\Contabilidad\Contabilidad\lebrun\lebrun\lebrun\bin\Release\lebrun.exe
+C:\Haydee_Otros_Proyectos\Roberto_FacturacionFerle\Contabilidad\Contabilidad\lebrun\lebrun\lebrun\bin\Release\lebrun.pdb
+C:\Haydee_Otros_Proyectos\Roberto_FacturacionFerle\Contabilidad\Contabilidad\lebrun\lebrun\lebrun\bin\Release\MySql.Data.dll
+C:\Haydee_Otros_Proyectos\Roberto_FacturacionFerle\Contabilidad\Contabilidad\lebrun\lebrun\lebrun\obj\Release\ResolveAssemblyReference.cache
+C:\Haydee_Otros_Proyectos\Roberto_FacturacionFerle\Contabilidad\Contabilidad\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmComprobanteContable.resources
+C:\Haydee_Otros_Proyectos\Roberto_FacturacionFerle\Contabilidad\Contabilidad\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmAuxiliarContable.resources
+C:\Haydee_Otros_Proyectos\Roberto_FacturacionFerle\Contabilidad\Contabilidad\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmPlanCuentas.resources
+C:\Haydee_Otros_Proyectos\Roberto_FacturacionFerle\Contabilidad\Contabilidad\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxAuxiliarContable.resources
+C:\Haydee_Otros_Proyectos\Roberto_FacturacionFerle\Contabilidad\Contabilidad\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxComprobanteContable.resources
+C:\Haydee_Otros_Proyectos\Roberto_FacturacionFerle\Contabilidad\Contabilidad\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxPlanCuentas.resources
+C:\Haydee_Otros_Proyectos\Roberto_FacturacionFerle\Contabilidad\Contabilidad\lebrun\lebrun\lebrun\obj\Release\lebrun.parametrosContables.resources
+C:\Haydee_Otros_Proyectos\Roberto_FacturacionFerle\Contabilidad\Contabilidad\lebrun\lebrun\lebrun\obj\Release\lebrun.Principal.resources
+C:\Haydee_Otros_Proyectos\Roberto_FacturacionFerle\Contabilidad\Contabilidad\lebrun\lebrun\lebrun\obj\Release\lebrun.Properties.Resources.resources
+C:\Haydee_Otros_Proyectos\Roberto_FacturacionFerle\Contabilidad\Contabilidad\lebrun\lebrun\lebrun\obj\Release\lebrun.csproj.GenerateResource.Cache
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\bin\Release\lebrun.exe.config
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.exe
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.pdb
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\bin\Release\App.config
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\bin\Release\lebrun.exe
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\bin\Release\lebrun.pdb
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\bin\Release\MySql.Data.dll
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\ResolveAssemblyReference.cache
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmComprobanteContable.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmAuxiliarContable.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmPlanCuentas.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxAuxiliarContable.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxComprobanteContable.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxPlanCuentas.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.parametrosContables.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.Principal.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.Properties.Resources.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.csproj.GenerateResource.Cache
+D:\Lebrun Despues Servidor\lebrun\lebrun\lebrun\bin\Release\lebrun.exe.config
+D:\Lebrun Despues Servidor\lebrun\lebrun\lebrun\obj\Release\lebrun.exe
+D:\Lebrun Despues Servidor\lebrun\lebrun\lebrun\obj\Release\lebrun.pdb
+D:\Lebrun Despues Servidor\lebrun\lebrun\lebrun\bin\Release\App.config
+D:\Lebrun Despues Servidor\lebrun\lebrun\lebrun\bin\Release\lebrun.exe
+D:\Lebrun Despues Servidor\lebrun\lebrun\lebrun\bin\Release\lebrun.pdb
+D:\Lebrun Despues Servidor\lebrun\lebrun\lebrun\bin\Release\MySql.Data.dll
+D:\Lebrun Despues Servidor\lebrun\lebrun\lebrun\obj\Release\ResolveAssemblyReference.cache
+D:\Lebrun Despues Servidor\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmComprobanteContable.resources
+D:\Lebrun Despues Servidor\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmAuxiliarContable.resources
+D:\Lebrun Despues Servidor\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmPlanCuentas.resources
+D:\Lebrun Despues Servidor\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxAuxiliarContable.resources
+D:\Lebrun Despues Servidor\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxComprobanteContable.resources
+D:\Lebrun Despues Servidor\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxPlanCuentas.resources
+D:\Lebrun Despues Servidor\lebrun\lebrun\lebrun\obj\Release\lebrun.parametrosContables.resources
+D:\Lebrun Despues Servidor\lebrun\lebrun\lebrun\obj\Release\lebrun.Principal.resources
+D:\Lebrun Despues Servidor\lebrun\lebrun\lebrun\obj\Release\lebrun.Properties.Resources.resources
+D:\Lebrun Despues Servidor\lebrun\lebrun\lebrun\obj\Release\lebrun.csproj.GenerateResource.Cache
+D:\Data\lebrun\lebrun\lebrun\bin\Release\lebrun.exe.config
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.exe
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.pdb
+D:\Data\lebrun\lebrun\lebrun\bin\Release\App.config
+D:\Data\lebrun\lebrun\lebrun\bin\Release\lebrun.exe
+D:\Data\lebrun\lebrun\lebrun\bin\Release\lebrun.pdb
+D:\Data\lebrun\lebrun\lebrun\obj\Release\ResolveAssemblyReference.cache
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmComprobanteContable.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmAuxiliarContable.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmPlanCuentas.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxAuxiliarContable.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxComprobanteContable.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxPlanCuentas.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.parametrosContables.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.Principal.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.Properties.Resources.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.csproj.GenerateResource.Cache
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxAuxiliaresOnly.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmComprobanteCierre.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.clientes.frmClientes.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.lbxClientes.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.lbxFacturas.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.pedidos.frmPedido.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.vendedores.lbxVendedores.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.transporte.lbxTransporte.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmproductos.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxProductos.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxProductos2.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxProveedores.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmFactura.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmOrdenCompra.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.lbxOrdenDeCompra.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\Interop.MSComDlg.dll
+D:\Data\lebrun\lebrun\lebrun\obj\Release\Interop.MSCommLib.dll
+D:\Data\lebrun\lebrun\lebrun\obj\Release\Interop.TM_FISCAL.dll
+D:\Data\lebrun\lebrun\lebrun\obj\Release\AxInterop.MSComDlg.dll
+D:\Data\lebrun\lebrun\lebrun\obj\Release\AxInterop.MSCommLib.dll
+D:\Data\lebrun\lebrun\lebrun\obj\Release\AxInterop.TM_FISCAL.dll
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.csproj.ResolveComReference.cache
+D:\Data\lebrun\lebrun\lebrun\bin\Release\Interop.MSComDlg.dll
+D:\Data\lebrun\lebrun\lebrun\bin\Release\Interop.MSCommLib.dll
+D:\Data\lebrun\lebrun\lebrun\bin\Release\Interop.TM_FISCAL.dll
+D:\Data\lebrun\lebrun\lebrun\bin\Release\AxInterop.MSComDlg.dll
+D:\Data\lebrun\lebrun\lebrun\bin\Release\AxInterop.MSCommLib.dll
+D:\Data\lebrun\lebrun\lebrun\bin\Release\AxInterop.TM_FISCAL.dll
+D:\Data\lebrun\lebrun\lebrun\bin\Release\lebrun.exe.manifest
+D:\Data\lebrun\lebrun\lebrun\bin\Release\Comdlg32.ocx
+D:\Data\lebrun\lebrun\lebrun\bin\Release\MSCOMM32.OCX
+D:\Data\lebrun\lebrun\lebrun\bin\Release\TMFISCAL.ocx
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.exe.manifest
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmPagare.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxtipoDocPro.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\Interop.MSComDlg.dll
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\Interop.MSCommLib.dll
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\Interop.TM_FISCAL.dll
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\AxInterop.MSComDlg.dll
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\AxInterop.MSCommLib.dll
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\AxInterop.TM_FISCAL.dll
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.csproj.ResolveComReference.cache
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\bin\Release\lebrun.exe.manifest
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\bin\Release\Interop.MSComDlg.dll
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\bin\Release\Interop.MSCommLib.dll
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\bin\Release\Interop.TM_FISCAL.dll
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\bin\Release\AxInterop.MSComDlg.dll
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\bin\Release\AxInterop.MSCommLib.dll
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\bin\Release\AxInterop.TM_FISCAL.dll
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\bin\Release\Comdlg32.ocx
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\bin\Release\MSCOMM32.OCX
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\bin\Release\TMFISCAL.ocx
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.clientes.frmClientes.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.lbxClientes.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmPagare.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmproductos.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxProductos2.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxProveedores.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxtipoDocPro.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmComprobanteCierre.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxAuxiliaresOnly.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmFactura.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.lbxFacturas.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmImportaciones.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmOrdenCompra.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.gastosImportaciones.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.lbxImportaciones.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.lbxOrdenDeCompra.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.ProductosImportaciones.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.pedidos.frmPedido.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.transporte.lbxTransporte.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.vendedores.lbxVendedores.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.exe.manifest
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\bin\Release\lebrun.exe.config
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\Interop.MSComDlg.dll
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\Interop.MSCommLib.dll
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\Interop.TM_FISCAL.dll
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\AxInterop.MSComDlg.dll
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\AxInterop.MSCommLib.dll
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\AxInterop.TM_FISCAL.dll
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.csproj.ResolveComReference.cache
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.exe
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.pdb
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\ResolveAssemblyReference.cache
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\frmLogin.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.clientes.frmClientes.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.lbxClientes.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmPagare.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmproductos.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxProductos.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxProductos2.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxProveedores.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxtipoDocPro.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmComprobanteCierre.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmComprobanteContable.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmAuxiliarContable.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmPlanCuentas.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxAuxiliarContable.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxAuxiliaresOnly.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxComprobanteContable.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxPlanCuentas.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.parametrosContables.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmFactura.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.lbxFacturas.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmImportaciones.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmOrdenCompra.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.gastosImportaciones.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.lbxImportaciones.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.lbxOrdenDeCompra.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.ProductosImportaciones.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.pedidos.frmPedido.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.transporte.lbxTransporte.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.vendedores.lbxVendedores.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.Principal.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.Properties.Resources.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.csproj.GenerateResource.Cache
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\bin\Release\App.config
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\bin\Release\lebrun.exe.manifest
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\bin\Release\lebrun.exe
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\bin\Release\lebrun.pdb
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\bin\Release\Interop.MSComDlg.dll
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\bin\Release\Interop.MSCommLib.dll
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\bin\Release\Interop.TM_FISCAL.dll
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\bin\Release\AxInterop.MSComDlg.dll
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\bin\Release\AxInterop.MSCommLib.dll
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\bin\Release\AxInterop.TM_FISCAL.dll
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\bin\Release\Comdlg32.ocx
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\bin\Release\MSCOMM32.OCX
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\bin\Release\TMFISCAL.ocx
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.exe.manifest
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmFacturaImportacion.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmFacturaNacionalImportacion.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmOtrosGastos.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmProductosImportacion.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxTarifaRetenc.resources
+D:\Data\con Login lebrun\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmOff.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmOff.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxTarifaRetenc.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmFacturaImportacion.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmFacturaNacionalImportacion.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmOtrosGastos.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmProductosImportacion.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\frmLogin.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmImportaciones.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.gastosImportaciones.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.lbxImportaciones.resources
+D:\Data\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.ProductosImportaciones.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmOff.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxTarifaRetenc.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmFacturaImportacion.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmFacturaNacionalImportacion.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmOtrosGastos.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmProductosImportacion.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\frmLogin.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.frmReporte.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\bin\Release\lebrun.exe.config
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\Interop.MSComDlg.dll
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\Interop.MSCommLib.dll
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\Interop.TM_FISCAL.dll
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\AxInterop.MSComDlg.dll
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\AxInterop.MSCommLib.dll
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\AxInterop.TM_FISCAL.dll
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.csproj.ResolveComReference.cache
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.exe
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.pdb
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\ResolveAssemblyReference.cache
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmOff.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxTarifaRetenc.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmFacturaImportacion.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmFacturaNacionalImportacion.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmOtrosGastos.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmProductosImportacion.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\frmLogin.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.clientes.frmClientes.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.lbxClientes.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmPagare.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmproductos.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxProductos.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxProductos2.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxProveedores.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxtipoDocPro.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmComprobanteCierre.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmComprobanteContable.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmAuxiliarContable.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmPlanCuentas.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxAuxiliarContable.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxAuxiliaresOnly.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxComprobanteContable.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxPlanCuentas.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.parametrosContables.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmFactura.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.lbxFacturas.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmImportaciones.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmOrdenCompra.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.gastosImportaciones.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.lbxImportaciones.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.lbxOrdenDeCompra.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.ProductosImportaciones.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.pedidos.frmPedido.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.transporte.lbxTransporte.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.vendedores.lbxVendedores.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.Principal.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.Properties.Resources.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.frmReporte.resources
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.csproj.GenerateResource.Cache
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\bin\Release\App.config
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\bin\Release\lebrun.exe.manifest
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\bin\Release\lebrun.exe
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\bin\Release\lebrun.pdb
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\bin\Release\MySql.Data.dll
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\bin\Release\Interop.MSComDlg.dll
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\bin\Release\Interop.MSCommLib.dll
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\bin\Release\Interop.TM_FISCAL.dll
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\bin\Release\AxInterop.MSComDlg.dll
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\bin\Release\AxInterop.MSCommLib.dll
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\bin\Release\AxInterop.TM_FISCAL.dll
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\bin\Release\Comdlg32.ocx
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\bin\Release\MSCOMM32.OCX
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\bin\Release\TMFISCAL.ocx
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.exe.manifest
+D:\Proyecto Reportes\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.reportes.frmReporteProductos.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.reportes.frmReporteProductos.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.frmContenedorProductos.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmOtrosDatos.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\bin\Release\lebrun.exe.config
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\Interop.MSComDlg.dll
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\Interop.MSCommLib.dll
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\Interop.TM_FISCAL.dll
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\AxInterop.MSComDlg.dll
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\AxInterop.MSCommLib.dll
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\AxInterop.TM_FISCAL.dll
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.csproj.ResolveComReference.cache
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.exe
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.pdb
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\ResolveAssemblyReference.cache
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmOff.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxTarifaRetenc.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmFacturaImportacion.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmFacturaNacionalImportacion.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmOtrosDatos.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmOtrosGastos.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmProductosImportacion.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.reportes.frmReporteProductos.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\frmLogin.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.clientes.frmClientes.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.lbxClientes.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmPagare.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmproductos.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxProductos.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxProductos2.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxProveedores.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxtipoDocPro.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmComprobanteCierre.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmComprobanteContable.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmAuxiliarContable.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmPlanCuentas.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxAuxiliarContable.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxAuxiliaresOnly.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxComprobanteContable.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxPlanCuentas.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.parametrosContables.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmFactura.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.lbxFacturas.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmImportaciones.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmOrdenCompra.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.gastosImportaciones.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.lbxImportaciones.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.lbxOrdenDeCompra.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.ProductosImportaciones.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.pedidos.frmPedido.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.transporte.lbxTransporte.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.vendedores.lbxVendedores.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.Principal.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.Properties.Resources.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.frmContenedorProductos.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.frmReporte.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.csproj.GenerateResource.Cache
+D:\Data\Documentos\lebrun\lebrun\lebrun\bin\Release\App.config
+D:\Data\Documentos\lebrun\lebrun\lebrun\bin\Release\lebrun.exe.manifest
+D:\Data\Documentos\lebrun\lebrun\lebrun\bin\Release\lebrun.exe
+D:\Data\Documentos\lebrun\lebrun\lebrun\bin\Release\lebrun.pdb
+D:\Data\Documentos\lebrun\lebrun\lebrun\bin\Release\Interop.MSComDlg.dll
+D:\Data\Documentos\lebrun\lebrun\lebrun\bin\Release\Interop.MSCommLib.dll
+D:\Data\Documentos\lebrun\lebrun\lebrun\bin\Release\Interop.TM_FISCAL.dll
+D:\Data\Documentos\lebrun\lebrun\lebrun\bin\Release\AxInterop.MSComDlg.dll
+D:\Data\Documentos\lebrun\lebrun\lebrun\bin\Release\AxInterop.MSCommLib.dll
+D:\Data\Documentos\lebrun\lebrun\lebrun\bin\Release\AxInterop.TM_FISCAL.dll
+D:\Data\Documentos\lebrun\lebrun\lebrun\bin\Release\Comdlg32.ocx
+D:\Data\Documentos\lebrun\lebrun\lebrun\bin\Release\MSCOMM32.OCX
+D:\Data\Documentos\lebrun\lebrun\lebrun\bin\Release\TMFISCAL.ocx
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.exe.manifest
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.bancos.lbxBancos.resources
+D:\Data\Documentos\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmClaveSupervision.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.bancos.lbxBancos.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmClaveSupervision.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxTrabjadores.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.reportes.frmEmisionARC.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.frmContenedorARC.resources
+D:\lebrun_20130613\lebrun\lebrun\bin\Release\lebrun.exe.config
+D:\lebrun_20130613\lebrun\lebrun\obj\Release\Interop.MSComDlg.dll
+D:\lebrun_20130613\lebrun\lebrun\obj\Release\Interop.MSCommLib.dll
+D:\lebrun_20130613\lebrun\lebrun\obj\Release\Interop.TM_FISCAL.dll
+D:\lebrun_20130613\lebrun\lebrun\obj\Release\AxInterop.MSComDlg.dll
+D:\lebrun_20130613\lebrun\lebrun\obj\Release\AxInterop.MSCommLib.dll
+D:\lebrun_20130613\lebrun\lebrun\obj\Release\AxInterop.TM_FISCAL.dll
+D:\lebrun_20130613\lebrun\lebrun\obj\Release\lebrun.csproj.ResolveComReference.cache
+D:\lebrun_20130613\lebrun\lebrun\obj\Release\lebrun.exe
+D:\lebrun_20130613\lebrun\lebrun\obj\Release\lebrun.pdb
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.tesoreria.frmRecibodeIngreso.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.tesoreria.lbxReciboIngreso.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmClaveConfirmacion2.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmDocumentosNoImpresos.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmImportarDev.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmSerieFiscal.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.LbxSerieFiscal.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmConsultaArticulos.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmCambioPrecio.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmPromociones.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.ReportesZ_X.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.producto.frmConteProductos.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.bancos.frmBancos.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.cierreCaja.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.tesoreria.frmRetIvaCli.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.MovContab.frmConteMovContab.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.usuarios.lbxUsuarios.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.facturacion.frmReporteCierreCaja.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.bancos.frmCuentasBanc.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.bancos.lbxCuentasBanc.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.compras.frmPagosLebrun.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.compras.frmProcesoPago.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.compras.frmProcesoPagoManual.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.compras.lbxProveedoresPago.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.compras.frmContendorRptCompras.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.compras.frmCruceDeSaldo.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmFacturaVivienda.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.compras.frmContenedorCompras.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.compras.frmContenedorOrden.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmCalculoPrecio.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmConsultaArticulos2.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.compras.frmServicios.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.compras.lbxServicios.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.pedido.frmContePedido.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmEstructuraCostos.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmVisorEstructura.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\bin\Release\Microsoft.Vbe.Interop.dll
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\bin\Release\office.dll
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.compras.frmOpcionesServicios.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.retenciones.frmContenedorRetISLR.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.retenciones.frmContenedorRetIva.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.compras.frmRif.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.Form1.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmVisor2.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.bultos.lbxBulto2.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.bultos.lbxBultos.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.clientes.frmTipoNegocio.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.clientes.lbxTipoNegocio.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.cotizacion.frmPreFac.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.cotizacion.lbxPrefacturaCtz.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.pedidos.frmAprobacionGerencial.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.pedidos.lbxAprobacionGerencial.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.pedidos.lbxPedido.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.prefactura.frmPrefactura.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.prefactura.lbxPrefactura.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.bulto.frmContenedorBulto.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.pedido.frmReportePedido.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.prefactura.lbxprefacturaS12.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmValidacionUserTimer.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.prefactura.frmReportePrefactura.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmEdicionALICU_IVA.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmEdicionArancel.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmEditorCategoria.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmEditorSubCategoria.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmEtiqGran.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmEtiqMed.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmEtiqPeqDesg.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxALICU_IVA.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxArancel.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxCategoria.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxSeleccionEtiqPeq.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxSubCategoria.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.pedidos.lbxPedidoS5.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmEtiqPeqCodg.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmClasificacionEconomica.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmEditorMoneda.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmProveedores.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxClasificacionEconomica.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxMonedad.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmAsignarProveedor.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmMantProductos.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmUnidaXProducto.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxElimiPrecios.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxElimiPromo.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxMantProductos.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxOpcionesAdicionales.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxVisor3.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.gerencial.lbxConsultaGerencial.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.gerencial.lbxConsultaGerente.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.gerencial.lbxCosultaVentaXVendedor.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.clientesMayor.frmClientesMayor.resources
+C:\CSGE\Contabilidad2012\lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.clientesMayor.lbxClientesMayor.resources
+C:\CSGE\Contabilidad2012\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmNetoMonedaExt.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\bin\Release\lebrun.exe.config
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.csproj.ResolveComReference.cache
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.exe
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.pdb
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\Interop.MSComDlg.dll
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\Interop.MSCommLib.dll
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\Interop.TM_FISCAL.dll
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\AxInterop.MSComDlg.dll
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\AxInterop.MSCommLib.dll
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\AxInterop.TM_FISCAL.dll
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\bin\Release\App.config
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\bin\Release\lebrun.exe.manifest
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\bin\Release\lebrun.exe
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\bin\Release\lebrun.pdb
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\bin\Release\Interop.MSComDlg.dll
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\bin\Release\Interop.MSCommLib.dll
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\bin\Release\Interop.TM_FISCAL.dll
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\bin\Release\AxInterop.MSComDlg.dll
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\bin\Release\AxInterop.MSCommLib.dll
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\bin\Release\AxInterop.TM_FISCAL.dll
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\bin\Release\Comdlg32.OCX
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\bin\Release\MSCOMM32.OCX
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\bin\Release\TMFISCAL.OCX
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\ResolveAssemblyReference.cache
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.usuarios.lbxUsuarios.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.bancos.frmBancos.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.bancos.frmCuentasBanc.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.bancos.lbxBancos.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.bancos.lbxCuentasBanc.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.bultos.lbxBulto2.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.bultos.lbxBultos.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.clientesMayor.frmClientesMayor.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.clientesMayor.lbxClientesMayor.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.clientes.frmTipoNegocio.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.clientes.lbxTipoNegocio.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmCalculoPrecio.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmClasificacionEconomica.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmConsultaArticulos2.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmEditorMoneda.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmProveedores.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxClasificacionEconomica.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxMonedad.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxTarifaRetenc.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxTrabjadores.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.compras.frmOpcionesServicios.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.compras.frmRif.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.compras.frmServicios.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.compras.lbxServicios.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmEstructuraCostos.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmVisorEstructura.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.cotizacion.frmPreFac.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.cotizacion.lbxPrefacturaCtz.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmFacturaVivienda.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.cierreCaja.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmClaveSupervision.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmClaveConfirmacion2.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmDocumentosNoImpresos.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmImportarDev.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmNetoMonedaExt.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmSerieFiscal.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.LbxSerieFiscal.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.ReportesZ_X.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.gerencial.lbxConsultaGerencial.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.gerencial.lbxConsultaGerente.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.gerencial.lbxCosultaVentaXVendedor.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmFacturaImportacion.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmFacturaNacionalImportacion.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmOtrosDatos.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmOtrosGastos.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmProductosImportacion.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.compras.frmCruceDeSaldo.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.compras.frmPagosLebrun.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.compras.frmProcesoPago.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.compras.frmProcesoPagoManual.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.compras.lbxProveedoresPago.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.pedidos.frmAprobacionGerencial.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.pedidos.frmPedido.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.pedidos.lbxAprobacionGerencial.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.pedidos.lbxPedido.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.pedidos.lbxPedidoS5.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.prefactura.frmPrefactura.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.prefactura.lbxPrefactura.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.prefactura.lbxprefacturaS12.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.Form1.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmAsignarProveedor.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmCambioPrecio.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmConsultaArticulos.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmEdicionALICU_IVA.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmEdicionArancel.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmEditorCategoria.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmEditorSubCategoria.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmEtiqGran.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmEtiqMed.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmEtiqPeqCodg.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmEtiqPeqDesg.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmMantProductos.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmOff.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmPromociones.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmUnidaXProducto.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmValidacionUserTimer.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.frmVisor2.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxALICU_IVA.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxArancel.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxCategoria.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxElimiPrecios.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxElimiPromo.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxMantProductos.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxOpcionesAdicionales.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxSeleccionEtiqPeq.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxSubCategoria.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.productos.lbxVisor3.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.reportes.frmEmisionARC.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.reportes.frmReporteProductos.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.tesoreria.frmRecibodeIngreso.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.tesoreria.frmRetIvaCli.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.tesoreria.lbxReciboIngreso.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\frmLogin.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.clientes.frmClientes.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.lbxClientes.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmPagare.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.frmproductos.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxProductos2.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxProveedores.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.complementos.lbxtipoDocPro.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmComprobanteCierre.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmComprobanteContable.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmAuxiliarContable.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.frmPlanCuentas.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxAuxiliarContable.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxAuxiliaresOnly.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxComprobanteContable.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.contabilidad.lbxPlanCuentas.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.parametrosContables.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.frmFactura.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.facturacion.lbxFacturas.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmImportaciones.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.frmOrdenCompra.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.gastosImportaciones.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.lbxImportaciones.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.lbxOrdenDeCompra.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.importaciones.ProductosImportaciones.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.transporte.lbxTransporte.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.formularios.vendedores.lbxVendedores.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.Principal.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.Properties.Resources.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.bulto.frmContenedorBulto.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.compras.frmContenedorCompras.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.compras.frmContenedorOrden.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.facturacion.frmReporteCierreCaja.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.frmContenedorARC.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.frmContenedorProductos.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.frmReporte.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.MovContab.frmConteMovContab.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.compras.frmContendorRptCompras.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.pedido.frmContePedido.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.pedido.frmReportePedido.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.prefactura.frmReportePrefactura.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.producto.frmConteProductos.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.retenciones.frmContenedorRetISLR.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.Reportes.retenciones.frmContenedorRetIva.resources
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.csproj.GenerateResource.Cache
+C:\CSGE\Contabilidad\Lebrun\lebrun\lebrun\obj\Release\lebrun.exe.manifest

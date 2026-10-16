@@ -1,0 +1,6 @@
+  000013434 1 PAR             000013434 1 PAR            000013434 1 PAR            000013434 1 PAR            000013434 1 PAR 
+ PVJusto.Bs.120000000,18   PVJusto.Bs.120000000,18    PVJusto.Bs.120000000,18    PVJusto.Bs.120000000,18    PVJusto.Bs.120000000,18 
+   05/18 IVA Incl.           05/18 IVA Incl.            05/18 IVA Incl.            05/18 IVA Incl.            05/18 IVA Incl.         
+FTIMON RifJ003680290       FTIMON RifJ003680290      FTIMON RifJ003680290       FTIMON RifJ003680290       FTIMON RifJ003680290
+                                                                                                            
+
